@@ -23,3 +23,9 @@ dependencies:
   url: https://github.com/cb-kubecd/bdd-nh-1587804549.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: cb-kubecd
+  repo: bdd-nh-import-1587806809
+  url: https://github.com/cb-kubecd/bdd-nh-import-1587806809.git
+  version: ""
+  versionURL: ""
